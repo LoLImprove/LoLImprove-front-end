@@ -1,0 +1,7 @@
+body {
+    @include default-font;
+}
+
+.container {
+    @include outer-container;
+}
